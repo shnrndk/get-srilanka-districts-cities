@@ -1,0 +1,14 @@
+{
+  "name": "get-srilanka-districts-cities",
+  "version": "1.0.3",
+  "description": "This module will get the json data of city names, when we select a district, and if select a province it will display it's  districts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "srilanka"
+  ],
+  "author": "shnrndk",
+  "license": "ISC"
+}
